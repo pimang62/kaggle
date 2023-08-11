@@ -60,7 +60,7 @@ You’ll explore a more advanced validation technique that gives a better measur
 ### XGBoost
 You will learn how to build and optimize models with gradient boosting. This method dominates many Kaggle competitions and achieves state-of-the-art results on a variety of datasets.
 
-그라데이션 부스팅으로 모델을 구추가고 최적화하는 방법에 대해 배울 것입니다. 이 방법은 많은 캐글 대회에서 우위를 차지하며 다양한 데이터셋에서 좋은 결과를 달성합니다.
+그라데이션 부스팅으로 모델을 구축하고 최적화하는 방법에 대해 배울 것입니다. 이 방법은 많은 캐글 대회에서 우위를 차지하며 다양한 데이터셋에서 좋은 결과를 달성합니다.
 
 ### Data Leakage
 You will learn what data leakage is and how to prevent it. If you don't know how to prevent it, leakage will come up frequently, and it will ruin your models in subtle and dangerous ways. So, this is one of the most important concepts for practicing data scientists.
