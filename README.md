@@ -1,5 +1,5 @@
 ## ▶ Day 09
-
+ 
 ### Your First Machine Learning Model
 You’ll create a machine learning model using the scikit-learn library, one of the most popular and efficient tools for data analysis.
 
@@ -13,7 +13,7 @@ Once you have built a model, how good is it? How exactly should you judge how cl
 모델을 만들고 나면 얼마나 좋은지, 모델의 예측이 실제 일어난 일에 얼마나 가까운지 등은 어떻게 판단해야 할까요? 모델 검증을 사용하여 모델의 품질을 측정합니다.
  
 ## ▶ Day10
-
+ 
 ### Underfitting and Overfitting
 You’ll learn about the fundamental concepts of underfitting and overfitting. Then you'll apply these ideas to gain a deep understanding of why some models succeed and others fail. This knowledge will make you much more efficient at discovering highly accurate machine learning models.
 
@@ -25,14 +25,14 @@ You’ll learn all about random forests, another machine learning model you can 
 또 다른 머신러닝 모델인 랜덤포레스트에 대한 모든 것을 배웁니다. 지금까지 구축한 모델의 성능을 능가하는 자신만의 랜덤포레스트 모델을 구축하게 됩니다.
  
 ## ▶ Day11
-
+ 
 ### Machine Learning Competitions
 One way to further improve your skills is to participate in machine learning competitions. You’ll create and submit your predictions to a Kaggle competition.
 
 여러분의 능력을 더욱 향상시키는 방법 중 한 가지는 머신러닝 대회에 참여하는 것입니다. 캐글 대회에 예측결과를 제출합니다.
  
 ## ▶ Day12
-
+ 
 ### Missing Values
 Most machine learning libraries (including scikit-learn) give an error if you try to build a model using data with missing values. In "Missing Values", you’ll learn about three different approaches for dealing with missing values in your data.
 
@@ -44,7 +44,7 @@ A categorical variable is a variable that takes only a limited number of values,
 범주형 변수는 제한된 수의 값만 사용하는 변수이며, 데이터에서 흔히 볼 수 있습니다. "Categorical Variables"파트에서 이러한 변수를 사용하는 방법에 대해 알아봅니다.
   
 ## ▶ Day13
-
+ 
 ### Pipelines
 You’ll learn a simple way to keep your data preprocessing and modeling code organized.
 
@@ -56,7 +56,7 @@ You’ll explore a more advanced validation technique that gives a better measur
 모델 성능을 더 잘 측정할 수 있는 고급 검증 기법을 살펴봅니다.
  
 ## ▶ Day14
-
+ 
 ### XGBoost
 You will learn how to build and optimize models with gradient boosting. This method dominates many Kaggle competitions and achieves state-of-the-art results on a variety of datasets.
 
