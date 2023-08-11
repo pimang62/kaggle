@@ -42,7 +42,7 @@ Most machine learning libraries (including scikit-learn) give an error if you tr
 A categorical variable is a variable that takes only a limited number of values, and it’s common to encounter them in data. Learn how to work with them in "Categorical Variables".
 
 범주형 변수는 제한된 수의 값만 사용하는 변수이며, 데이터에서 흔히 볼 수 있습니다. "Categorical Variables"파트에서 이러한 변수를 사용하는 방법에 대해 알아봅니다.
-
+ 
 ## ▶ Day13
 
 ### Pipelines
