@@ -43,7 +43,7 @@ A categorical variable is a variable that takes only a limited number of values,
 
 범주형 변수는 제한된 수의 값만 사용하는 변수이며, 데이터에서 흔히 볼 수 있습니다. "Categorical Variables"파트에서 이러한 변수를 사용하는 방법에 대해 알아봅니다.
  
-## ▶ Day13
+## ▶ Day 13
  
 ### Pipelines
 You’ll learn a simple way to keep your data preprocessing and modeling code organized.
@@ -55,7 +55,7 @@ You’ll explore a more advanced validation technique that gives a better measur
 
 모델 성능을 더 잘 측정할 수 있는 고급 검증 기법을 살펴봅니다.
  
-## ▶ Day14
+## ▶ Day 14
  
 ### XGBoost
 You will learn how to build and optimize models with gradient boosting. This method dominates many Kaggle competitions and achieves state-of-the-art results on a variety of datasets.
